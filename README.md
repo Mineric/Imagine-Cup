@@ -9,4 +9,4 @@ First aid assistance system for emergency situations.
 * Monitering Web applications (Emergencry service provider)
 * Reporting Mobile application (First aider)
 
-The whole system provide the first aid assitance winthin minimum amount of time in an emergency situation.
+**The whole system provide the first aid assitance winthin minimum amount of time in an emergency situation.**
